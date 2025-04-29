@@ -15,8 +15,8 @@
    
   **Сервисы решающие задачу стриминга Unreal приложений:** 
 	- [**Vagon Streams**](https://forums.unrealengine.com/t/best-company-to-use-for-pixelstreaming/1139477?utm_source=chatgpt.com) — платформа для масштабируемого Pixel Streaming UE-проекта с упрощённой конфигурацией, рекомендованная в сообществе Unreal Engine как коммерческое решение для стриминга визуализации в браузер.  
-    - [**Arcware** ](https://arcware.com/?utm_source=chatgpt.com)— предлагает end-to-end инфраструктуру с оптимизацией NVENC и низкими задержками для высококачественного стриминга UE-приложений через WebRTC‍​.  
-    - [**Eagle 3D Streaming**](https://www.eagle3dstreaming.com/?utm_source=chatgpt.com) — self-serve платформа для развёртывания Pixel Streaming приложений в считанные минуты с глобальным CDN и встроенным matchmaker‍​.
+	- [**Arcware** ](https://arcware.com/?utm_source=chatgpt.com)— предлагает end-to-end инфраструктуру с оптимизацией NVENC и низкими задержками для высококачественного стриминга UE-приложений через WebRTC‍​.  
+	- [**Eagle 3D Streaming**](https://www.eagle3dstreaming.com/?utm_source=chatgpt.com) — self-serve платформа для развёртывания Pixel Streaming приложений в считанные минуты с глобальным CDN и встроенным matchmaker‍​.
 
 ## **Технологии на которые стоит обратить внимание:**
 - **Для обработки геоданных**: QGIS, ArcGIS, CityEngine
