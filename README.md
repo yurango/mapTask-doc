@@ -13,10 +13,10 @@
 8. [Цифровой двойник штатов Австралии](https://cesium.com/use-cases/digital-twins/?utm_source=chatgpt.com) - платформа Cesium поддерживает «тяжёлые» цифровые двойники крупных территорий, в том числе Виктории, Нового Южного Уэльса и Квинсленда (обслуживая до 78 % населения Австралии) — все сцены были реализованы через **Cesium for Unreal** с последующим стримингом геоданных и визуализацией через веб-клиент‍.
 9. Городские проекты Esri и CityEngine - Esri и HOK продемонстрировали рабочий процесс импорта сцен из **ArcGIS CityEngine** в Unreal Engine с последующей заменой ассетов и публикацией через Pixel Streaming, что использовалось для совместного планирования и презентаций в городском планировании.
    
-  **Сервисы решающие задачу стриминга Unreal приложений:** 
-	[**Vagon Streams**](https://forums.unrealengine.com/t/best-company-to-use-for-pixelstreaming/1139477?utm_source=chatgpt.com) — платформа для масштабируемого Pixel Streaming UE-проекта с упрощённой конфигурацией, рекомендованная в сообществе Unreal Engine как коммерческое решение для стриминга визуализации в браузер.  
-	[**Arcware** ](https://arcware.com/?utm_source=chatgpt.com)— предлагает end-to-end инфраструктуру с оптимизацией NVENC и низкими задержками для высококачественного стриминга UE-приложений через WebRTC‍​.  
-	[**Eagle 3D Streaming**](https://www.eagle3dstreaming.com/?utm_source=chatgpt.com) — self-serve платформа для развёртывания Pixel Streaming приложений в считанные минуты с глобальным CDN и встроенным matchmaker‍​.
+## **Сервисы решающие задачу стриминга Unreal приложений:** 
+[**Vagon Streams**](https://forums.unrealengine.com/t/best-company-to-use-for-pixelstreaming/1139477?utm_source=chatgpt.com) — платформа для масштабируемого Pixel Streaming UE-проекта с упрощённой конфигурацией, рекомендованная в сообществе Unreal Engine как коммерческое решение для стриминга визуализации в браузер.  
+[**Arcware** ](https://arcware.com/?utm_source=chatgpt.com)— предлагает end-to-end инфраструктуру с оптимизацией NVENC и низкими задержками для высококачественного стриминга UE-приложений через WebRTC‍​.  
+[**Eagle 3D Streaming**](https://www.eagle3dstreaming.com/?utm_source=chatgpt.com) — self-serve платформа для развёртывания Pixel Streaming приложений в считанные минуты с глобальным CDN и встроенным matchmaker‍​.
 
 ## **Технологии на которые стоит обратить внимание:**
 - **Для обработки геоданных**: QGIS, ArcGIS, CityEngine
